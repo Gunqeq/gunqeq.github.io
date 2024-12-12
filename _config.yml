@@ -1,17 +1,5 @@
-title: "Chirpy Blog"
-description: "A minimal blog theme for Jekyll"
-baseurl: "" # เว้นว่างหากไม่ใช้ subdirectory
-url: "https://gunqeq.github.io/"
-
-theme: chirpy
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-analytics
-
-# Social Links
-social:
-  github: Gunqeq
-  linkedin: yourprofile
+title: Tactile theme
+description: Tactile is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-tactile
