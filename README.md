@@ -7,7 +7,7 @@
 ---
 
 ### My Profile Picture
-![Your Image](picture.jpg)
+![Your Image](367CC8EA-FC09-47D5-BA6E-26C2E5E35585.jpg)
 
 ---
 
