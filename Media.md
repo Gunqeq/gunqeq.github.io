@@ -23,6 +23,6 @@
 
 ---
 
-[My friend](https://pattaravut.github.io/)      
+[My friend](https://pattaravut.github.io/media)      
 [<--Back](README.md)
 
