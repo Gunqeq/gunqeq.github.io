@@ -9,7 +9,7 @@
 | [2nd Csrc-Nist](https://csrc.nist.gov/glossary/term/media) | Physical devices or writing surfaces including, but not limited to, magnetic tapes, optical disks, magnetic disks, Large-Scale Integration (LSI) memory chips, printouts (but not including display media) onto which information is recorded, stored, or printed within an information system. |
 | | ChatGPT: อุปกรณ์หรือพื้นผิวที่ใช้ในการบันทึก เก็บ หรือพิมพ์ข้อมูล ในระบบสารสนเทศ (Information System) โดยอาจรวมถึงทั้งอุปกรณ์ทางกายภาพและวัสดุที่ใช้สำหรับการจัดเก็บข้อมูลในรูปแบบต่าง ๆ |
 | | Gemini: อุปกรณ์ทางกายภาพหรือพื้นผิวสำหรับการเขียน ซึ่งรวมถึงแต่ไม่จำกัดเพียงเทปแม่เหล็ก, ดิสก์ออปติคัล, ดิสก์แม่เหล็ก, ชิปหน่วยความจำ LSI, และสิ่งพิมพ์ (แต่ไม่รวมถึงสื่อแสดงผล) ที่ข้อมูลถูกบันทึก, จัดเก็บ, หรือพิมพ์ลงไปภายในระบบข้อมูล |
-| **Myself** | Media คือ อุปกรณ์หรือวัสดุที่ใช้สำหรับเก็บข้อมูลหรือส่งข้อมูลในรูปแบบดิจิทัล เช่น ฮาร์ดดิสก์ แฟลชไดรฟ์ |
+| **Myself** | Media  หมายถึง สื่อ หรือ ช่องทางการสื่อสาร ที่ใช้ส่งข้อมูลไปยังผู้รับ เช่น โทรทัศน์ วิทยุ หนังสือพิมพ์ อินเทอร์เน็ต และโซเชียลมีเดีย โดยแบ่งได้เป็นสื่อแบบดั้งเดิม และสื่อดิจิทัล ขึ้นอยู่กับรูปแบบและเทคโนโลยีที่ใช้สื่อสารข้อมูลนั้นๆ |
 
 ## ตัวอย่างการใช้งาน Media ในชีวิตประจำวัน (Sample in Daily life)
 
