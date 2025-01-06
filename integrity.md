@@ -1,4 +1,4 @@
-<center><h1>Integrity</h1></center>
+# **Integrity** 
 
 **Definition by [Ovaledge](https://www.ovaledge.com/blog/data-quality-metrics)**
 
@@ -23,4 +23,4 @@
 - สมมุติว่าเราจะโทรหาเบอร์เพื่อนในโทรศัพท์ เช่น "เบอร์ของเพื่อนคือ 081-234-5678" เบอร์นี้ต้องถูกต้องและต้องไม่ผิดพลาดแม้แต่ตัวเดียว ถ้าเบอร์ผิด เราอาจโทรหาผิดคนแทนที่เราจะโทรหาเพื่อนของเรา
 
 
-[Back<---] (README.md)
+[<---Back](https://gunqeq.github.io) 
