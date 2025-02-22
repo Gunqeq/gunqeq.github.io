@@ -33,7 +33,7 @@
 
 ![bg1](picture/bg1.jpg)
 
-![bg2](picture/bg2.jpg)
+![bg2](Picture/bg2.jpg)
 
 ## สมาชิกภายในกลุ่ม
 [Pattaravut Sukbot](https://pattaravut.github.io/)
