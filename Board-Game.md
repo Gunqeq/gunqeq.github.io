@@ -31,7 +31,7 @@
 - คนในกลุ่ม "JapJapzaTaluiLok" 3 คน
 - นิสิตคณะเศรษฐศาสตร์
 
-![bg1](picture/bg1.jpg)
+![bg1](Picture/bg1.jpg)
 
 ![bg2](Picture/bg2.jpg)
 
