@@ -36,10 +36,10 @@
 ![bg2](Picture/bg2.jpg)
 
 ## สมาชิกภายในกลุ่ม
-[Pattaravut Sukbot](https://pattaravut.github.io/)
+[Pattaravut Sukbot](https://pattaravut.github.io/boardgame)
 
 [Ukrit Johneak](https://zenogarb.github.io/)
 
 [Kittamaet Rongkham](https://ohmykk.github.io/)
 
-[Songwut Sudtalai](https://gunqeq.github.io/)
+[Songwut Sudtalai](https://gunqeq.github.io/Board-Game)
