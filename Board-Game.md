@@ -36,7 +36,7 @@
 ![bg2](Picture/bg2.jpg)
 
 ## สมาชิกภายในกลุ่ม
-[Pattaravut Sukbot](https://pattaravut.github.io/boardgame)
+[Pattaravut Sukbot](https://pattaravut.github.io/boardgame.html)
 
 [Ukrit Johneak](https://zenogarb.github.io/)
 
