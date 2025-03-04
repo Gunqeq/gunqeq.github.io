@@ -37,7 +37,7 @@
 ## สมาชิกภายในกลุ่ม
 [Pattaravut Sukbot](https://pattaravut.github.io/boardgame.html)
 
-[Ukrit Johneak](https://zenogarb.github.io/)
+[Ukrit Johneak](https://zenogarb.github.io/Boardgame.html)
 
 [Kittamaet Rongkham](https://ohmykk.github.io/)
 
